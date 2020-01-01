@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-author: "荣志炜"
+author: "Lu Yiyun"
 date: "2020/1/1"
 output:
   github_document:
